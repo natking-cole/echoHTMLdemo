@@ -1,0 +1,34 @@
+body
+{
+    background-color: rgb(129, 56, 56);
+}
+
+header
+{
+    background-color: rgb(100, 37, 37);
+    box-shadow:5px 5px 5px rgb(75, 24, 16);
+}
+
+h1
+{
+    box-shadow: inset 3px 3px 5px rgb(75, 34, 29);
+    background-color: rgb(160, 84, 79);
+}
+
+h2, h3
+{
+    box-shadow:5px 5px 5px rgb(78, 28, 19);
+    background-color: rgb(134, 52, 52);
+}
+
+section, aside
+{
+    box-shadow:5px 5px 5px rgb(66, 22, 11);
+    background-color: rgb(194, 94, 94);
+}
+
+footer
+{
+    background-color: rgb(100, 37, 37);
+    box-shadow:inset 5px 5px 5px rgb(75, 24, 16);
+}
